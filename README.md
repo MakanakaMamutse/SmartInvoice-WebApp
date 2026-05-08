@@ -4,7 +4,8 @@
 
 ---
 
-![SmartInvoice Dashboard](./public/dashboard-preview.png)
+<img width="1903" height="1078" alt="image" src="https://github.com/user-attachments/assets/48be721d-25a7-49bb-9403-d23c2acc0685" />
+
 
 ---
 
