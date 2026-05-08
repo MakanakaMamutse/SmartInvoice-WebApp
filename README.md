@@ -1,4 +1,4 @@
-# SmartInvoice — Full-Stack Invoicing & Job Management Platform 🏗️💼
+# SmartInvoice — Full-Stack Invoicing & Job Management Platform🏗️💼
 
 > A production SaaS platform built for a private client in the construction and contracting industry — now being expanded into a multi-tenant product serving multiple businesses. Built and delivered end-to-end by **Makanaka Mamutse**.
 
